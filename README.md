@@ -1,4 +1,4 @@
-# 🤖 IA and ML
+# IA and ML
 
 Repositorio dedicado al desarrollo de proyectos de **Inteligencia Artificial (AI)** y **Machine Learning (ML)**, enfocados en el aprendizaje, experimentación e implementación de algoritmos de predicción, aprendizaje automático y aprendizaje por refuerzo utilizando Python.
 
@@ -6,7 +6,7 @@ El objetivo de este repositorio es documentar la evolución de diferentes proyec
 
 ---
 
-# 📂 Estructura del repositorio
+# Estructura del repositorio
 
 Cada proyecto se encuentra organizado en su propia carpeta, incluyendo:
 
@@ -18,7 +18,7 @@ Cada proyecto se encuentra organizado en su propia carpeta, incluyendo:
 
 ---
 
-# 🧠 Áreas de estudio
+# Áreas de estudio
 
 Este repositorio incluye proyectos relacionados con:
 
@@ -35,7 +35,7 @@ Este repositorio incluye proyectos relacionados con:
 
 ---
 
-# 🎯 Enfoque principal
+# Enfoque principal
 
 Actualmente el repositorio está especialmente orientado al desarrollo de modelos de predicción mediante redes neuronales y algoritmos de aprendizaje por refuerzo.
 
@@ -71,7 +71,7 @@ El objetivo es construir agentes que aprendan estrategias óptimas de forma aut�
 
 ---
 
-# 🛠️ Tecnologías utilizadas
+# Tecnologías utilizadas
 
 - Python
 - Google Colab
@@ -80,7 +80,7 @@ El objetivo es construir agentes que aprendan estrategias óptimas de forma aut�
 
 ---
 
-# 📚 Librerías utilizadas
+# Librerías utilizadas
 
 Dependiendo del proyecto, se emplean librerías como:
 
@@ -92,7 +92,7 @@ Dependiendo del proyecto, se emplean librerías como:
 
 ---
 
-# 📈 Contenido del repositorio
+# Contenido del repositorio
 
 A medida que el repositorio crezca se incluirán proyectos relacionados con:
 
@@ -107,7 +107,7 @@ A medida que el repositorio crezca se incluirán proyectos relacionados con:
 
 ---
 
-# 🚀 Objetivos
+# Objetivos
 
 - Fortalecer conocimientos en Inteligencia Artificial.
 - Desarrollar proyectos aplicados.
@@ -116,6 +116,6 @@ A medida que el repositorio crezca se incluirán proyectos relacionados con:
 
 ---
 
-# 📌 Estado del repositorio
+# Estado del repositorio
 
 Este repositorio se encuentra en constante crecimiento. Cada nuevo proyecto incorpora ejemplos de uso y resultados obtenidos durante el desarrollo.
